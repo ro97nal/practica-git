@@ -7,3 +7,4 @@
 - cambio desde master
 - CAmbios de refactor
 - cambio desde github
+- cambio desde remoto
