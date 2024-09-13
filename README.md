@@ -7,3 +7,5 @@
 - cambio desde master
 - CAmbios de refactor
 - cambio desde github
+
+ronald isaias preciado bermudez
